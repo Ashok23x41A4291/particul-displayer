@@ -1,0 +1,5 @@
+{
+  "name": "Neural Particle Displayer",
+  "description": "A neural network-powered particle simulation controlled by hand gestures.",
+  "requestFramePermissions": ["camera"]
+}
